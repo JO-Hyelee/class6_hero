@@ -39,6 +39,7 @@ main{
     margin:0 auto;
     padding: 20px;
 }
+main img{max-width: 80%;}
 a {
     color: rgb(77, 77, 255);
 }
